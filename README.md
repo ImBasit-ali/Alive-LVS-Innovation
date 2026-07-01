@@ -14,7 +14,7 @@
 You can download the compiled production-ready Android APK directly by clicking the button below:
 
 <p align="center">
-  <a href="build/app/outputs/Alive.apk" target="_blank">
+  <a href="assets/Alive.apk" target="_blank">
     <img src="https://img.shields.io/badge/DOWNLOAD%20RELEASE%20APK-00A651?style=for-the-badge&logo=android&logoColor=white&labelColor=28B446" alt="Download APK Button" height="60">
   </a>
 </p>
